@@ -18,8 +18,8 @@ public class DatosHojaVida {
     private String perfil = "Me gustaria desempeñar mis habilidades profesionales en varias empresas";
     private String experiencia = "2020-2022\n[Desarrollo] - [DobleClick]\n[Popayan]";
     private String educacion = "2022-2027\n[Desarrollo] - [Colegio Mayor del Cauca]\n[Popayan]";
-    private String[] areasInteres = {"Estructura de Datos", "Algoritmos", "Ingeniería de Software"};
-    private String proyectos = "• [Nombre del proyecto] - [Breve descripción]"; 
+    private String[] areasInteres = {"Programacion", "Algoritmos", "Ingeniería multimedia"};
+    private String proyectos = "• [BuscaMinas] - [Encuentra la buscamina]"; 
     // =================================================
 
     public String getNombre() { return nombre; }
