@@ -10,16 +10,16 @@ public class DatosHojaVida {
     private String titulo = "Estudiante de Estructura de Datos";
     private String ciudad = "Popayan, Colombia";
     private String telefono = "+57 3053808787";
-    private String email = "tu@email.com";
-    private String github = "github.com/tu-usuario";
-    private String[] habilidadesTecnicas = {"Java", "Git y GitHub", "Programación", "Estructura de Datos"};
-    private String[] habilidadesBlandas = {"Trabajo en equipo", "Comunicación", "Resolución de problemas"};
-    private String idiomas = "Español - Nativo\nEnglish - Básico (B2)";
-    private String perfil = "Escribe aquí 2-3 oraciones sobre ti, tus intereses y objetivos profesionales.";
-    private String experiencia = "2024-2025\n[Cargo] - [Empresa]\n[Ciudad]";
-    private String educacion = "2020-2025\n[Carrera] - [Universidad]\n[Ciudad]";
+    private String email = "aguacheta@unimayor.edu.co";
+    private String github = "github.com/amelissa-hue";
+    private String[] habilidadesTecnicas = {"Java",  "Programación", "Estructura de Datos"};
+    private String[] habilidadesBlandas = {"liderazgo", "Comunicación", "Resolución de problemas","tarabajo en equipo"};
+    private String idiomas = "Español - Nativo\nEnglish - Básico (A2)";
+    private String perfil = "Me gustaria desempeñar mis habilidades profesionales en varias empresas";
+    private String experiencia = "2020-2022\n[Desarrollo] - [DobleClick]\n[Popayan]";
+    private String educacion = "2022-2027\n[Desarrollo] - [Colegio Mayor del Cauca]\n[Popayan]";
     private String[] areasInteres = {"Estructura de Datos", "Algoritmos", "Ingeniería de Software"};
-    private String proyectos = "• [Nombre del proyecto] - [Breve descripción]";
+    private String proyectos = "• [Nombre del proyecto] - [Breve descripción]"; 
     // =================================================
 
     public String getNombre() { return nombre; }
